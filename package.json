@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2",
+    "i": "^0.3.7"
+  },
+  "name": "project-06-student-management-system-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "dependencies": {
+    "inquirer": "^9.2.23",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TABIN",
+  "license": "MIT",
+  "description": ""
+}
